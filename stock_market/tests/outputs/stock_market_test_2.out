@@ -1,0 +1,37 @@
+Market created with 4 companies
+Company 1: Alpha Corp with abbreviation ALP and market order 1
+Company 2: Beta Inc with abbreviation BET and market order 2
+Company 3: Gamma Co with abbreviation GAM and market order 3
+Company 4: Delta Inc with abbreviation DEL and market order 4
+Trade executed: 40 shares of ALP at 49.00 between Bob, Alice
+Trade executed: 20 shares of ALP at 49.50 between Charlie, Alice
+Trade executed: 20 shares of BET at 48.00 between Eve, Diana
+Trade executed: 10 shares of GAM at 47.00 between Frank, George
+Trade executed: 5 shares of DEL at 46.00 between Hannah, Ivy
+Trade executed: 3 shares of DEL at 46.00 between Jack, Ivy
+Trade executed: 5 shares of GAM at 44.00 between Bob, George
+Trade executed: 15 shares of GAM at 44.00 between Bob, Charlie
+Trade executed: 15 shares of DEL at 43.00 between Eve, Alice
+Trade executed: 10 shares of ALP at 42.00 between Frank, George
+Trade executed: 5 shares of BET at 41.00 between Hannah, Diana
+Trade executed: 8 shares of BET at 41.00 between Jack, Ivy
+Company: Alpha Corp (ALP)
+	Buy Requests:
+		George wants 5 @ 42.50
+	Sell Requests:
+		Charlie sells 10 @ 49.50
+Company: Beta Inc (BET)
+	Buy Requests:
+		Alice wants 18 @ 40.50
+	Sell Requests:
+		Jack sells 4 @ 41.00
+Company: Gamma Co (GAM)
+	Buy Requests:
+		Charlie wants 10 @ 44.50
+	Sell Requests:
+Company: Delta Inc (DEL)
+	Buy Requests:
+		Alice wants 3 @ 45.50
+		Diana wants 20 @ 43.50
+	Sell Requests:
+		Jack sells 9 @ 46.00

@@ -1,0 +1,38 @@
+Market created with 3 companies
+Company 1: Alpha Corp with abbreviation ALP and market order 1
+Company 2: Beta Inc with abbreviation BET and market order 2
+Company 3: Gamma Co with abbreviation GAM and market order 3
+Trade executed: 2 shares of ALP at 50.00 between Bob, Charlie
+Trade executed: 4 shares of BET at 50.00 between Bob, Charlie
+Trade executed: 7 shares of ALP at 52.00 between Diana, Eve
+Trade executed: 6 shares of GAM at 52.00 between Diana, Eve
+Trade executed: 2 shares of ALP at 52.00 between Diana, George
+Trade executed: 11 shares of GAM at 54.00 between Frank, Alice
+Trade executed: 17 shares of GAM at 60.00 between Bob, Eve
+Trade executed: 19 shares of ALP at 62.00 between Diana, Eve
+Trade executed: 11 shares of ALP at 64.00 between Frank, Eve
+Company: Alpha Corp (ALP)
+	Buy Requests:
+		George wants 10 @ 55.00
+		Charlie wants 3 @ 51.00
+		Alice wants 1 @ 49.00
+	Sell Requests:
+		Frank sells 10 @ 64.00
+Company: Beta Inc (BET)
+	Buy Requests:
+		Alice wants 26 @ 69.00
+		George wants 22 @ 65.00
+		Charlie wants 18 @ 61.00
+		Charlie wants 4 @ 51.00
+		Alice wants 3 @ 49.00
+	Sell Requests:
+		Bob sells 27 @ 70.00
+		Diana sells 29 @ 72.00
+Company: Gamma Co (GAM)
+	Buy Requests:
+		Charlie wants 28 @ 71.00
+		Eve wants 3 @ 63.00
+		Alice wants 5 @ 59.00
+		Eve wants 4 @ 53.00
+	Sell Requests:
+		Frank sells 31 @ 74.00

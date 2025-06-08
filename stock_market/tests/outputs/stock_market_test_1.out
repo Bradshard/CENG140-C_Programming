@@ -1,0 +1,14 @@
+Market created with 2 companies
+Company 1: Alpha Corp with abbreviation ALP and market order 1
+Company 2: Beta Inc with abbreviation BET and market order 2
+Trade executed: 40 shares of ALP at 49.00 between Bob, Alice
+Trade executed: 20 shares of ALP at 49.50 between Charlie, Alice
+Trade executed: 20 shares of BET at 48.00 between Eve, Diana
+Company: Alpha Corp (ALP)
+	Buy Requests:
+	Sell Requests:
+		Charlie sells 10 @ 49.50
+Company: Beta Inc (BET)
+	Buy Requests:
+		Diana wants 5 @ 49.00
+	Sell Requests:
